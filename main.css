@@ -1,0 +1,23 @@
+body{
+    font-family: 'Bruno Ace SC', cursive;
+    padding: 100px 700px 700px;
+}
+form{
+    border: 1px solid black;
+    border-radius: 20px;
+    text-align: center;
+    padding-top: 20px;
+}
+.firstName{
+    padding-top: 20px;
+}
+.lastName{
+    padding-top: 20px;
+}
+.email{
+    padding-top: 20px;
+}
+.submit{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
